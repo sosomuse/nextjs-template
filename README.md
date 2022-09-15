@@ -1,6 +1,6 @@
 # Overview
 
-My Nextjs Starter Templates
+My Next.js Starter Templates
 
 ## Getting Started
 
