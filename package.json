@@ -24,19 +24,5 @@
     "eslint-config-prettier": "8.5.0",
     "prettier": "2.7.1",
     "typescript": "4.8.4"
-  },
-  "eslintConfig": {
-    "extends": [
-      "plugin:react/recommended",
-      "plugin:@typescript-eslint/recommended",
-      "plugin:prettier/recommended"
-    ],
-    "overrides": [
-      {
-        "files": [
-          "**/*.ts?(x)"
-        ]
-      }
-    ]
   }
 }
