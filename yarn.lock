@@ -247,12 +247,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:18.2.17":
-  version: 18.2.17
-  resolution: "@types/react-dom@npm:18.2.17"
+"@types/react-dom@npm:18.2.18":
+  version: 18.2.18
+  resolution: "@types/react-dom@npm:18.2.18"
   dependencies:
     "@types/react": "npm:*"
-  checksum: 33b53078ed7e9e0cfc4dc691e938f7db1cc06353bc345947b41b581c3efe2b980c9e4eb6460dbf5ddc521dd91959194c970221a2bd4bfad9d23ebce338e12938
+  checksum: 74dba11a1b8156f3a763f3fca1fb4ec1dcd349153279b8bf79210024a69f994bf2cf0728198c047f8130c5318420ea56281b0a4ef84c8ae943cd9a0cac705220
   languageName: node
   linkType: hard
 
@@ -267,14 +267,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:18.2.43":
-  version: 18.2.43
-  resolution: "@types/react@npm:18.2.43"
+"@types/react@npm:18.2.46":
+  version: 18.2.46
+  resolution: "@types/react@npm:18.2.46"
   dependencies:
     "@types/prop-types": "npm:*"
     "@types/scheduler": "npm:*"
     csstype: "npm:^3.0.2"
-  checksum: 10477a50fbd3c0cc5b8a2ade679f442717f68fb27c8460b2aa1d3256cd18c48f742bbe5b9ee37a8c4c5f832ffa37b3a23c09fd96dd880a8e3182d8929c05e803
+  checksum: 814cc67107e5e69501d65bfc371cc2c716665d2a3608d395a2f81e24c3a2875db28e2cad717dfb17017eabcffd1d68ee2c9e09ecaba3f7108d5b7fbb9888ebab
   languageName: node
   linkType: hard
 
@@ -2215,8 +2215,8 @@ __metadata:
   resolution: "nextjs-template@workspace:."
   dependencies:
     "@types/node": "npm:20.10.6"
-    "@types/react": "npm:18.2.43"
-    "@types/react-dom": "npm:18.2.17"
+    "@types/react": "npm:18.2.46"
+    "@types/react-dom": "npm:18.2.18"
     eslint: "npm:8.56.0"
     eslint-config-next: "npm:14.0.3"
     eslint-config-prettier: "npm:9.1.0"
