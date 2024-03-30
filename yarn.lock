@@ -252,12 +252,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:20.11.17":
-  version: 20.11.17
-  resolution: "@types/node@npm:20.11.17"
+"@types/node@npm:20.12.2":
+  version: 20.12.2
+  resolution: "@types/node@npm:20.12.2"
   dependencies:
     undici-types: "npm:~5.26.4"
-  checksum: 10c0/1f30dae80b416cbf38f133a619ffb0e9fb9e7bc58f82d900bf73816ae5781740c4640892bf5971dd9c12570d5d05241646be3e7540bb4e059322ec6af4e51e15
+  checksum: 10c0/bb47d115a8f95aadebdd6403fee16d149d6b5568ad53bacc42df34c2d572561e36ba47b05f7f68bada43752d7369b470a90df65b646af7502dfb799a21b4fca7
   languageName: node
   linkType: hard
 
@@ -2319,7 +2319,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "nextjs-template@workspace:."
   dependencies:
-    "@types/node": "npm:20.11.17"
+    "@types/node": "npm:20.12.2"
     "@types/react": "npm:18.2.58"
     "@types/react-dom": "npm:18.2.19"
     eslint: "npm:8.57.0"
@@ -3221,11 +3221,11 @@ __metadata:
 
 "typescript@patch:typescript@npm%3A5.4.2#optional!builtin<compat/typescript>":
   version: 5.4.2
-  resolution: "typescript@patch:typescript@npm%3A5.4.2#optional!builtin<compat/typescript>::version=5.4.2&hash=d69c25"
+  resolution: "typescript@patch:typescript@npm%3A5.4.2#optional!builtin<compat/typescript>::version=5.4.2&hash=5adc0c"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 10c0/22e2f213c3ffe5960c5eaec6c95c04e01858fed57a94be250746f540b935b2c18c3c3fc80d3ab65d28c0aba1eb76284557ba3bf521d28caee811c44ba2b648f9
+  checksum: 10c0/fcf6658073d07283910d9a0e04b1d5d0ebc822c04dbb7abdd74c3151c7aa92fcddbac7d799404e358197222006ccdc4c0db219d223d2ee4ccd9e2b01333b49be
   languageName: node
   linkType: hard
 
