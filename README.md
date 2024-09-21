@@ -2,6 +2,14 @@
 
 My favorite Next.js Starter Templates
 
+## 
+
+- Next.js v14 With App Router
+- Tailwind CSS
+- TypeScript
+- Biome
+- ESLint(next/core-web-vitals, next/typescript)
+
 ## How to use this template
 
 ```bash
