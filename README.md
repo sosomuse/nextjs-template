@@ -2,7 +2,7 @@
 
 My favorite Next.js Starter Templates
 
-## 
+## nextjs-template
 
 - Next.js v14 With App Router
 - Tailwind CSS
