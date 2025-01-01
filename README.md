@@ -2,6 +2,13 @@
 
 My favorite Next.js Starter Templates
 
+## Libraries
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Biome
+
 ## nextjs-template
 
 - Next.js v14 With App Router
