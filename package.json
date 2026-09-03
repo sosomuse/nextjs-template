@@ -12,14 +12,14 @@
   },
   "dependencies": {
     "next": "15.1.4",
-    "react": "19.0.0",
-    "react-dom": "19.0.0"
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
     "@types/node": "22.10.5",
-    "@types/react": "19.0.5",
-    "@types/react-dom": "19.0.3",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "19.2.7",
     "eslint": "9.18.0",
     "eslint-config-next": "15.1.4",
     "postcss": "8.4.49",
